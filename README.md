@@ -1,2 +1,3 @@
 # CODE_EDITOR-PLATFORM
- Code EditorPlatform   to run  the code more than one clint as same time
+ provide developers with a text editing environment that is specifically designed for writing and editing source code, with features such as syntax highlighting, auto-completion, and debugging tools.
+ # STEP TO RUN THE PROJECT 
